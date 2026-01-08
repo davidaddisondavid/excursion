@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+
+header h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.download_link{
+    color: aquamarine;
+    font-size: 16px;
+    display: block;
+    text-align: center;
+}
