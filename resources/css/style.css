@@ -1,18 +1,45 @@
 body{
     background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 
 header h1{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
     color: white;
-    text-align: center;
 }
 
 .download_link{
     color: aquamarine;
     font-size: 16px;
     display: block;
-    text-align: center;
+}
+
+video{
+    display: block;
+    margin: auto;
+}
+
+h2{
+    font-weight: 300;
+    font-size: 42px;
+}
+
+#descript{
+    font-size: 21px;
+    color: gray;
+}
+
+img {
+    display: block;
+    margin: auto;
+    padding-top: 20px;
+}
+
+#copyright {
+    color: gray;
+    display: block;
+    text-align: right !important;
+    padding-top: 20px;
 }
